@@ -1,0 +1,28 @@
+
+Compiled APIs:
+  Linux ALSA
+
+Current input API: Linux ALSA
+
+There are 8 MIDI input sources available.
+  Input Port #1: Midi Through 14:0
+  Input Port #2: Virtual Raw MIDI 2-0 24:0
+  Input Port #3: Virtual Raw MIDI 2-1 25:0
+  Input Port #4: Virtual Raw MIDI 2-2 26:0
+  Input Port #5: Virtual Raw MIDI 2-3 27:0
+  Input Port #6: QuNexus 28:0
+  Input Port #7: QuNexus 28:1
+  Input Port #8: QuNexus 28:2
+
+Current output API: Linux ALSA
+
+There are 8 MIDI output ports available.
+  Output Port #1: Midi Through 14:0
+  Output Port #2: Virtual Raw MIDI 2-0 24:0
+  Output Port #3: Virtual Raw MIDI 2-1 25:0
+  Output Port #4: Virtual Raw MIDI 2-2 26:0
+  Output Port #5: Virtual Raw MIDI 2-3 27:0
+  Output Port #6: QuNexus 28:0
+  Output Port #7: QuNexus 28:1
+  Output Port #8: QuNexus 28:2
+
