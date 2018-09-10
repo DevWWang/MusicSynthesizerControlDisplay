@@ -1,5 +1,5 @@
-# MusicSynthesizerControlDisplay
-Design and implement a music synthesizer system on the Arrow SoC Board
+# Music Synthesizer Control Display
+Design and implement a music synthesizer system on the Arrow SoC Board using C and C++
 
 ### Requirements for Hard Processor Systmem Design
 #### MIDI Controller
